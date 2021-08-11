@@ -1,4 +1,8 @@
-{
+export default 
+
+[
+  
+  {
     formula: "Cs",
     name: "cesium",
   },

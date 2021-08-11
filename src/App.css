@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+#Answer1 {
+background-color: red;
+color: white;
+padding: 1rem;
+cursor: pointer;
+border: 2px inset grey;
+box-shadow: 0px 0px 5px black;
+
+
+}
